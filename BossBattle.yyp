@@ -135,6 +135,14 @@
             }
         },
         {
+            "Key": "27a45586-e3f6-41ee-9247-539c8f788dde",
+            "Value": {
+                "id": "7c13a4bc-83ba-4af9-8c9f-769ddfd7846d",
+                "resourcePath": "sprites\\boss_bulletspoint\\boss_bulletspoint.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "2cf3ce34-d2e1-4cd8-9bab-74e2b8eb9363",
             "Value": {
                 "id": "b1d12234-24c4-4d07-86fe-13c026db34a3",
@@ -148,6 +156,22 @@
                 "id": "3bb2f5ba-34b1-4908-9b76-af44dceb16a0",
                 "resourcePath": "objects\\obj_impulse\\obj_impulse.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "40712a60-2313-4b46-9b26-5fe9c21be0f9",
+            "Value": {
+                "id": "7061f3ee-53c1-4875-8490-d17d6517c93e",
+                "resourcePath": "objects\\obj_bossbulletspoint\\obj_bossbulletspoint.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "48fc5fc2-8a19-445c-a3f6-94425c86b158",
+            "Value": {
+                "id": "50f52193-c758-486b-9c9a-5fbbc803319e",
+                "resourcePath": "sprites\\boss\\boss.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -172,6 +196,14 @@
                 "id": "8527deef-53d7-49bc-8267-84cc40df6584",
                 "resourcePath": "views\\63785cd8-a95f-4e14-bd45-7827643297d9.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "6ef66c35-7510-4aed-b95f-6c0d90206652",
+            "Value": {
+                "id": "4f3fca1c-d09e-4080-bcf2-68ac64859917",
+                "resourcePath": "sprites\\boss_rightspawnpart\\boss_rightspawnpart.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -215,6 +247,14 @@
             }
         },
         {
+            "Key": "8060e6ea-6824-4dd3-9534-4cff1e546dff",
+            "Value": {
+                "id": "1797cd7e-d02d-4aa1-a96a-6aeaecefbb0b",
+                "resourcePath": "objects\\obj_bossleftspawnpart\\obj_bossleftspawnpart.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "830eb203-9886-4231-a15a-8e9f35762b9e",
             "Value": {
                 "id": "54957a31-c039-4406-add4-ff3f467796c1",
@@ -239,6 +279,14 @@
             }
         },
         {
+            "Key": "934406f2-26ee-429e-ba83-2bda291161c5",
+            "Value": {
+                "id": "86cf9fd1-0fa0-417f-af4a-d32c806eee81",
+                "resourcePath": "sprites\\boss_leftspawnpart\\boss_leftspawnpart.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "947a3ada-fd8a-42c5-b9be-0a31c6cfe95e",
             "Value": {
                 "id": "aac5d542-c3e7-476a-8f0a-213189c19cb5",
@@ -252,6 +300,14 @@
                 "id": "72994269-facb-4b17-bbab-e96ba3477740",
                 "resourcePath": "views\\97dff605-89e4-43e0-a0ab-7415078e2349.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "a40061b7-40d6-4626-ab29-3748ec9f8f76",
+            "Value": {
+                "id": "07fb8074-6111-4b1c-ac05-34ac4c51a982",
+                "resourcePath": "objects\\obj_bossrightspawnpart\\obj_bossrightspawnpart.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -332,6 +388,14 @@
                 "id": "8a7fa945-423b-48fd-bef1-20ffa580907a",
                 "resourcePath": "views\\dc0d5634-8244-4ab7-955c-9b8d3181a868.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "e1921e0b-69a6-4535-917a-11e447afe0d7",
+            "Value": {
+                "id": "88e27473-1c47-4bdc-9d98-5cba73573014",
+                "resourcePath": "objects\\obj_boss\\obj_boss.yy",
+                "resourceType": "GMObject"
             }
         }
     ],

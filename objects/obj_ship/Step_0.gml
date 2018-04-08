@@ -49,10 +49,6 @@ if(isLaser==true)
 }
 
 
-
-
-
-
 //sheld CD
 if(isShelding==true||sheldCD!=15)
 {
