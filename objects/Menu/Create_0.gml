@@ -2,14 +2,14 @@
 // You can write your code in this editor
 menuX = x;
 menuY = y;
-buttonHeight = 30;
-buttonWidth = 200;
-buttonPadding = 20;
+buttonHeight = 50;
+buttonWidth = 230;
+buttonPadding = 30;
 
 //buttons
 button[0] =  "New Game";
 button[1] =  "Options";
-button[2] =  "Credit";
+button[2] =  "Credits";
 button[3] =  "Exit";
 
 buttons = array_length_1d(button);
@@ -23,3 +23,4 @@ repeat(buttons)
 	unfold[i] = 0;
 	i++;
 }
+

@@ -1,4 +1,4 @@
-//show_debug_message("menuIndex"+menuIndex);
+
 switch(menuIndex)
 {
 	case 0:
