@@ -439,6 +439,22 @@
             }
         },
         {
+            "Key": "e2825f44-32ed-4aa0-89c0-a96fbc905c6c",
+            "Value": {
+                "id": "6dd63d99-ba64-4a8d-823b-8fafeff5e9b2",
+                "resourcePath": "sprites\\spr_bossBulletBasic\\spr_bossBulletBasic.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "e7b94d6d-733d-47c2-a119-689b18082946",
+            "Value": {
+                "id": "f6e1beed-ef41-4ea1-8c17-acaf8f2b65e6",
+                "resourcePath": "objects\\obj_bossBullets\\obj_bossBullets.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "fb7f404f-6868-4959-9fc6-0d2a9a2c3688",
             "Value": {
                 "id": "7c6983a6-cce2-492c-b6b8-4513fa11904d",

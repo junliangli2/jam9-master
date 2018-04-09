@@ -3,7 +3,7 @@
 
 // stop initial motion
 if(x == startPosX + 100)	canAttack = true;
-if(x == startPosX + 300 ) 
+if(x >= startPosX + whatEverNumber ) 
 {
 	speed = 0;
 	move_towards_point(x - 10 , y, 1)

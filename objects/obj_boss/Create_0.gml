@@ -15,3 +15,10 @@ canUseGun=true;
 
 minionOneLimit = 10;
 minionTwoLimit = 10;
+
+bulletTimer = 0;
+basicBulletTiming = 20;
+bossBulletTiming = 8;
+specialWave = 5;
+shootingBasicBullets = false;
+shootingBossBullets = false;

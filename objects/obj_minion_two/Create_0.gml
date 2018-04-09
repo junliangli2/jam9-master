@@ -1,6 +1,8 @@
 /// @description Insert description here
 // You can write your code in this editor
 randomize();
+
+whatEverNumber = random_range(200,350);
 lifetime = 60 * 8;	// 10 seconds
 alarm[0] = lifetime;
 canAttack = false;
