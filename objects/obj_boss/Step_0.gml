@@ -59,5 +59,10 @@ if(canUseGun==false){
 	}
 }
 
+// death
+if(HP <= 0)
+{
+	instance_destroy();
+}
 
 

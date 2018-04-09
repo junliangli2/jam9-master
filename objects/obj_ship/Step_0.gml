@@ -92,5 +92,6 @@ if(isShelding==true)
 	}
 }
 
-
+// Death
+if(HP <= 0) game_end();
 

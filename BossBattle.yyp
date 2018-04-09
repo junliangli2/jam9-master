@@ -199,6 +199,14 @@
             }
         },
         {
+            "Key": "6e896213-20ab-4dd1-b3e6-0a17d5e216f5",
+            "Value": {
+                "id": "05219cd7-db36-4f33-9400-80d3acf17b9e",
+                "resourcePath": "objects\\obj_bullet_minion\\obj_bullet_minion.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "6ef66c35-7510-4aed-b95f-6c0d90206652",
             "Value": {
                 "id": "4f3fca1c-d09e-4080-bcf2-68ac64859917",
@@ -231,11 +239,27 @@
             }
         },
         {
+            "Key": "72c6a1ec-47e1-4e1c-a6f8-bbe9883b679c",
+            "Value": {
+                "id": "5b15c6d4-67d1-48ce-89a8-17073a367745",
+                "resourcePath": "sprites\\sprite12\\sprite12.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "7584d69b-6927-40f4-90c8-8a15658cf1c7",
             "Value": {
                 "id": "1bd84d46-3219-4519-8aff-3641d769e1f1",
                 "resourcePath": "views\\7584d69b-6927-40f4-90c8-8a15658cf1c7.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "769ef936-1005-4df2-a6ce-6dcc5cd7dd25",
+            "Value": {
+                "id": "56852f62-23da-400f-9595-b071f258f477",
+                "resourcePath": "sprites\\spr_minion_ship_2\\spr_minion_ship_2.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -284,6 +308,14 @@
                 "id": "86cf9fd1-0fa0-417f-af4a-d32c806eee81",
                 "resourcePath": "sprites\\boss_leftspawnpart\\boss_leftspawnpart.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "9356d504-e40f-46f0-a1f4-8c87ed616a3c",
+            "Value": {
+                "id": "b10b8986-4310-4117-8725-3bc9ef9150a4",
+                "resourcePath": "objects\\obj_minion_one\\obj_minion_one.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -343,6 +375,14 @@
             }
         },
         {
+            "Key": "beb6300a-3c64-4fc0-8ddd-432a027a0c4f",
+            "Value": {
+                "id": "8579cab3-c4fa-49af-aa0c-9467333a1871",
+                "resourcePath": "sprites\\spr_minion_ship_1\\spr_minion_ship_1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "bf1b7014-14c6-419f-84e1-0df8657a20f5",
             "Value": {
                 "id": "4a2fa614-3eba-425a-942b-bc5fe61862ea",
@@ -395,6 +435,14 @@
             "Value": {
                 "id": "88e27473-1c47-4bdc-9d98-5cba73573014",
                 "resourcePath": "objects\\obj_boss\\obj_boss.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "fb7f404f-6868-4959-9fc6-0d2a9a2c3688",
+            "Value": {
+                "id": "7c6983a6-cce2-492c-b6b8-4513fa11904d",
+                "resourcePath": "objects\\obj_minion_two\\obj_minion_two.yy",
                 "resourceType": "GMObject"
             }
         }
