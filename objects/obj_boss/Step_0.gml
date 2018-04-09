@@ -125,9 +125,17 @@ if (shootingBossBullets)
 	if (specialWave = 0)
 	{
 		shootingBossBullets = 0;
-		specialWave = 5;
+		specialWave = 4;
 		bulletTimer = 0;
 	}
 }
 
-
+if (bossBulletsCD)
+{
+	bossBulletsCDTimer -= 1
+	if (bossBulletsCDTimer <= 0)
+	{
+		bossBulletsCDTimer = 600;
+		bossBulletsCD = false;
+	}
+}
