@@ -3,6 +3,6 @@
 
 with(other)
 {
-	HP = HP - 40;
+	HP = HP - 1;
 }
-instance_destroy();
+//instance_destroy();
