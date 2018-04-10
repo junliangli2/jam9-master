@@ -2,7 +2,7 @@
     "id": "769ef936-1005-4df2-a6ce-6dcc5cd7dd25",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "spr_minion_ship_2",
+    "name": "spr_minion",
     "For3D": false,
     "HTile": false,
     "VTile": false,
@@ -33,6 +33,28 @@
                     "modelName": "GMSpriteImage",
                     "mvc": "1.0",
                     "FrameId": "305ff7e2-49e2-4f91-9579-9f73a4f60b2e",
+                    "LayerId": "e8eb7ffc-9d1c-48ee-9617-3cd0ab34ea13"
+                }
+            ]
+        },
+        {
+            "id": "d84a09ec-3b6c-4195-9fe6-7066c9505184",
+            "modelName": "GMSpriteFrame",
+            "mvc": "1.0",
+            "SpriteId": "769ef936-1005-4df2-a6ce-6dcc5cd7dd25",
+            "compositeImage": {
+                "id": "caffd3d7-4a63-4df1-a802-64a596513604",
+                "modelName": "GMSpriteImage",
+                "mvc": "1.0",
+                "FrameId": "d84a09ec-3b6c-4195-9fe6-7066c9505184",
+                "LayerId": "00000000-0000-0000-0000-000000000000"
+            },
+            "images": [
+                {
+                    "id": "9c3c85e5-14bb-415e-a736-725af43af40e",
+                    "modelName": "GMSpriteImage",
+                    "mvc": "1.0",
+                    "FrameId": "d84a09ec-3b6c-4195-9fe6-7066c9505184",
                     "LayerId": "e8eb7ffc-9d1c-48ee-9617-3cd0ab34ea13"
                 }
             ]

@@ -3,7 +3,7 @@
 draw_set_color(c_white);
 draw_roundrect_color(802,839,914,888,c_green,c_green,true);
 draw_set_font(fontButton);
-draw_text(860, 865, "Back");
+draw_text(860, 865, button);
 
 var roomname = room_get_name(room);
 
