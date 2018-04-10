@@ -93,5 +93,9 @@ if(isShelding==true)
 }
 
 // Death
-//if(HP <= 0) game_end();
+if(HP <= 0) 
+{
+	instance_create_layer(x, y, "Bullets", UITransitions);
+	instance_destroy();
+}
 

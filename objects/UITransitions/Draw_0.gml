@@ -45,6 +45,16 @@ switch(roomname)
 		draw_text_transformed(60, 725, "http://www.flashkit.com/imagesvr_ce/flashkit/soundfx/Mayhem/Bullet_L-Maborosh-8008/Bullet_L-Maborosh-8008_hifi.mp3(Maboroshi Tsukuru)", 0.4, 0.4, 0);
 		
 		break;
+		
+	case "GameScene":
+	
+		draw_set_font(fontTitle);
+		draw_set_halign(fa_center);
+		draw_set_color(c_black);
+		draw_text(480, 480, "GameOver");
+		
+		break;
+		
 }
 
  
