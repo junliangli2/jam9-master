@@ -15,3 +15,10 @@ image_yscale = 2;
 startPosX = x;
 startPosY = y;
 move_towards_point(x + 10 , y, 1)
+minionNumber = 1;
+
+toChange = true;
+
+targetPosX = obj_ship.x;
+targetPosY = obj_ship.y;
+HP = 50;

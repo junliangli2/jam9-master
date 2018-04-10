@@ -258,7 +258,7 @@
             "Key": "769ef936-1005-4df2-a6ce-6dcc5cd7dd25",
             "Value": {
                 "id": "56852f62-23da-400f-9595-b071f258f477",
-                "resourcePath": "sprites\\spr_minion_ship_2\\spr_minion_ship_2.yy",
+                "resourcePath": "sprites\\spr_minion\\spr_minion.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -308,14 +308,6 @@
                 "id": "86cf9fd1-0fa0-417f-af4a-d32c806eee81",
                 "resourcePath": "sprites\\boss_leftspawnpart\\boss_leftspawnpart.yy",
                 "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "9356d504-e40f-46f0-a1f4-8c87ed616a3c",
-            "Value": {
-                "id": "b10b8986-4310-4117-8725-3bc9ef9150a4",
-                "resourcePath": "objects\\obj_minion_one\\obj_minion_one.yy",
-                "resourceType": "GMObject"
             }
         },
         {
@@ -372,14 +364,6 @@
                 "id": "257dc5c8-fa6a-4e29-a46f-db0a3fc88dae",
                 "resourcePath": "rooms\\OptionScene\\OptionScene.yy",
                 "resourceType": "GMRoom"
-            }
-        },
-        {
-            "Key": "beb6300a-3c64-4fc0-8ddd-432a027a0c4f",
-            "Value": {
-                "id": "8579cab3-c4fa-49af-aa0c-9467333a1871",
-                "resourcePath": "sprites\\spr_minion_ship_1\\spr_minion_ship_1.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
@@ -458,7 +442,7 @@
             "Key": "fb7f404f-6868-4959-9fc6-0d2a9a2c3688",
             "Value": {
                 "id": "7c6983a6-cce2-492c-b6b8-4513fa11904d",
-                "resourcePath": "objects\\obj_minion_two\\obj_minion_two.yy",
+                "resourcePath": "objects\\obj_minion\\obj_minion.yy",
                 "resourceType": "GMObject"
             }
         }
