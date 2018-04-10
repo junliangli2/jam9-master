@@ -23,5 +23,5 @@ repeat(buttons)
 }
 	
 if(menuIndex != lastSelected)
-	audio_play_sound(buttonSnd, 1, false);
+	audio_play_sound(btnSnd, 1, false);
 lastSelected = menuIndex;

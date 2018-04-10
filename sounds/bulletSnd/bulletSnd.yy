@@ -1,8 +1,8 @@
 {
-    "id": "2696c015-5923-4629-a6a5-87b01c6c2216",
+    "id": "80016923-cf7a-44ce-b5bc-26223bef6eeb",
     "modelName": "GMSound",
     "mvc": "1.0",
-    "name": "buttonSnd",
+    "name": "bulletSnd",
     "audioGroupGuid": "7b2c4976-1e09-44e5-8256-c527145e03bb",
     "bitDepth": 1,
     "bitRate": 128,

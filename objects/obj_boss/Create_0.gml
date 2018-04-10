@@ -1,5 +1,8 @@
 /// @description Insert description here
 // You can write your code in this editor
+
+audio_play_sound(bgSnd, 1, false);
+
 HP = 200;
 spawnLeftCD=20;
 canSpawnLeft=true;

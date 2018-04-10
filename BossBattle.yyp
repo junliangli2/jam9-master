@@ -127,14 +127,6 @@
             }
         },
         {
-            "Key": "2696c015-5923-4629-a6a5-87b01c6c2216",
-            "Value": {
-                "id": "31e55271-de8a-46a9-bc94-2d8326f8ceac",
-                "resourcePath": "sounds\\buttonSnd\\buttonSnd.yy",
-                "resourceType": "GMSound"
-            }
-        },
-        {
             "Key": "27a45586-e3f6-41ee-9247-539c8f788dde",
             "Value": {
                 "id": "7c13a4bc-83ba-4af9-8c9f-769ddfd7846d",
@@ -268,6 +260,14 @@
                 "id": "ce19083b-a71c-4d09-a7a7-7d471f22800a",
                 "resourcePath": "objects\\UITransitions\\UITransitions.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "80016923-cf7a-44ce-b5bc-26223bef6eeb",
+            "Value": {
+                "id": "b9f81c72-b299-4fb9-88b0-53d1f395c751",
+                "resourcePath": "sounds\\bulletSnd\\bulletSnd.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -420,6 +420,22 @@
                 "id": "e38c5f50-d656-43d1-aa9d-0cb6f00718e0",
                 "resourcePath": "sprites\\Bullet\\Bullet.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "d97fd2d5-dadc-44ff-8bee-450bbc22d733",
+            "Value": {
+                "id": "27fca78b-c505-4de8-884f-34435a948d4b",
+                "resourcePath": "sounds\\btnSnd\\btnSnd.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "db9962bd-a2b5-40e0-bb8c-26424a9b047f",
+            "Value": {
+                "id": "3c5eac9a-e74e-4608-a856-55825d7e2e0f",
+                "resourcePath": "sounds\\bgSnd\\bgSnd.yy",
+                "resourceType": "GMSound"
             }
         },
         {

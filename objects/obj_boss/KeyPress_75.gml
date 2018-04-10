@@ -2,7 +2,9 @@
 /// @shoot here
 // someone should complete this file,i only create animation
 
-if(canUseGun==true&&gunCD==5){
+if(canUseGun==true&&gunCD==5)
+{
+	audio_play_sound(bulletSnd, 1, false);
 	canUseGun=false;
 	
 	reference1 = instance_create_depth(x+150,y-100, "Bullets", obj_bossBullets);
