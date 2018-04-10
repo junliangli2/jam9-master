@@ -127,6 +127,14 @@
             }
         },
         {
+            "Key": "25153780-61e5-440b-84f7-7abba39277fb",
+            "Value": {
+                "id": "9e604958-7bb6-476f-bdf4-6b3143db1afa",
+                "resourcePath": "sounds\\bossShield\\bossShield.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "27a45586-e3f6-41ee-9247-539c8f788dde",
             "Value": {
                 "id": "7c13a4bc-83ba-4af9-8c9f-769ddfd7846d",
@@ -172,6 +180,22 @@
                 "id": "50f52193-c758-486b-9c9a-5fbbc803319e",
                 "resourcePath": "sprites\\boss\\boss.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "496b7e9c-09c8-498a-b478-275df322eda6",
+            "Value": {
+                "id": "0357f330-bf28-4979-b283-113e8aafb3c1",
+                "resourcePath": "sounds\\plyLaserSnd\\plyLaserSnd.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "49842840-6d39-43e7-a0d2-34365f73c177",
+            "Value": {
+                "id": "9cf55be5-8623-488b-819a-184e1d04c37d",
+                "resourcePath": "sounds\\playerShield\\playerShield.yy",
+                "resourceType": "GMSound"
             }
         },
         {
