@@ -159,6 +159,14 @@
             }
         },
         {
+            "Key": "48d0acd3-d49b-4e39-8649-095d50395dce",
+            "Value": {
+                "id": "401ab2ea-94bf-49ec-b446-ae604d2825ce",
+                "resourcePath": "fonts\\fontContent\\fontContent.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "48fc5fc2-8a19-445c-a3f6-94425c86b158",
             "Value": {
                 "id": "50f52193-c758-486b-9c9a-5fbbc803319e",
@@ -172,6 +180,14 @@
                 "id": "a102630d-2dd4-413b-a502-b89021c6ee65",
                 "resourcePath": "views\\5a29b576-ebad-405c-96e3-0c55ee878671.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "5b0c34df-c847-4341-a785-90aff2377493",
+            "Value": {
+                "id": "3c2d75eb-5e7d-4f0f-8058-47006d06b748",
+                "resourcePath": "sounds\\minionSnd\\minionSnd.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -404,6 +420,14 @@
                 "id": "e38c5f50-d656-43d1-aa9d-0cb6f00718e0",
                 "resourcePath": "sprites\\Bullet\\Bullet.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "d9095bb9-8e98-462d-8691-f1fae4ace94d",
+            "Value": {
+                "id": "957f56f7-fbab-4676-bf78-319af20402ec",
+                "resourcePath": "sounds\\bossbulletSnd\\bossbulletSnd.yy",
+                "resourceType": "GMSound"
             }
         },
         {
