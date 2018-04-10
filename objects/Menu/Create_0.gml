@@ -5,12 +5,11 @@ menuY = y;
 buttonHeight = 50;
 buttonWidth = 230;
 buttonPadding = 30;
-
+timer = 0;
 //buttons
 button[0] =  "New Game";
-button[1] =  "Options";
-button[2] =  "Credits";
-button[3] =  "Exit";
+button[1] =  "Credits";
+button[2] =  "Exit";
 
 buttons = array_length_1d(button);
 

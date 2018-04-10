@@ -11,6 +11,10 @@ if(menuIndex < 0)
 if(menuIndex > buttons-1)
 	menuIndex = 0;
 	
+if (timer <= 60)
+{
+	timer += 1
+}
 var i = 0;
 repeat(buttons)
 {
