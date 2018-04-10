@@ -51,7 +51,7 @@ switch(roomname)
 		draw_set_font(fontTitle);
 		draw_set_halign(fa_center);
 		draw_set_color(c_black);
-		draw_text(480, 480, "GameOver");
+		draw_text(x, y, "GameOver");
 		
 		break;
 		

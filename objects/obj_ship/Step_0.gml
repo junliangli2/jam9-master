@@ -95,7 +95,7 @@ if(isShelding==true)
 // Death
 if(HP <= 0) 
 {
-	instance_create_layer(x, y, "Bullets", UITransitions);
+	instance_create_layer(Healthbar.x + 400, Healthbar.y + 250, "Instances", UITransitions);
 	instance_destroy();
 }
 

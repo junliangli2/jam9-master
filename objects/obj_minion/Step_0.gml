@@ -14,10 +14,13 @@ if (minionNumber == 2 )
 	image_index = 1;
 	if(!canAttack && x <= startPosX-150 ) 
 	{
-		speed = 0;
-		targetPosX = obj_ship.x;
-		targetPosY = obj_ship.y;
-		canAttack = true;
+		if (object_exists(obj_ship))
+		{
+			speed = 0;
+			targetPosX = obj_ship.x;
+			targetPosY = obj_ship.y;
+			canAttack = true;
+		}
 	}
 	
 	if(canAttack)
