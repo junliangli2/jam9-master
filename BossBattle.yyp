@@ -175,6 +175,14 @@
             }
         },
         {
+            "Key": "4d8acd32-ec81-4d7e-bf33-3001777dd806",
+            "Value": {
+                "id": "9eee5790-d96e-41a6-b72d-81efcaea24a4",
+                "resourcePath": "fonts\\fontHealth\\fontHealth.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "5a29b576-ebad-405c-96e3-0c55ee878671",
             "Value": {
                 "id": "a102630d-2dd4-413b-a502-b89021c6ee65",
@@ -380,6 +388,14 @@
                 "id": "4a2fa614-3eba-425a-942b-bc5fe61862ea",
                 "resourcePath": "views\\bf1b7014-14c6-419f-84e1-0df8657a20f5.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "c29ccb58-af37-4e38-8891-071bc114c6ee",
+            "Value": {
+                "id": "801173e2-e9d2-41a4-842f-d9604a0fdf54",
+                "resourcePath": "objects\\Healthbar\\Healthbar.yy",
+                "resourceType": "GMObject"
             }
         },
         {
