@@ -4,11 +4,7 @@
 audio_play_sound(bgSnd, 1, true);
 
 
-/*with(other)
-{
-	HP = 200;	
-}*/
-HP = 200;
+self.HP = 200;
 
 spawnLeftCD=20;
 canSpawnLeft=true;
