@@ -22,18 +22,23 @@ repeat (bossHealth)
 }
 */
 
-var playerHP = 200;
-var bossHP = 200;
-
-draw_set_color(c_black);
+draw_set_color(c_lime);
 draw_set_font(fontHealth); 
 draw_set_halign(fa_right);
 draw_text(x, y-5, "Player: ");
-draw_set_color(c_black);
+draw_set_color(c_red);
 draw_set_font(fa_right);
 draw_set_font(fontHealth); 
 draw_text(x, y+35, "Boss: ");
-draw_set_colour(c_lime);
+
+//Player health
+draw_set_colour(c_black);
 draw_rectangle(x + 10 , y - 25, x + 200, y + 10, false);
+draw_set_colour(c_lime);
+draw_rectangle(x + 10 , y - 25, x + 150, y + 10, false);
+
+//Boss health
+draw_set_color(c_black);
+draw_rectangle(x+10, y + 50, x + 200, y + 15, false);
 draw_set_color(c_red);
 draw_rectangle(x+10, y + 50, x + 200, y + 15, false);
